@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: johnhany97/stmarkos-scouts
+
+media_folder: static/assets
+
+collections:
+  - name: blog
+    label: Blog
+    folder: src/pages/articles
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: date }
+      - { name: title, label: Title }
+      - { name: draft, label: Draft,  widget: "boolean", default: false }
+      - { name: category, label: Category }
+      - { tags: tags, label: tags, widget: "list"}
+      - { description: "" }
+      - { name: body, label: Body, widget: markdown }
