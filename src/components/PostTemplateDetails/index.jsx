@@ -9,6 +9,7 @@ class PostTemplateDetails extends React.Component {
     const { subtitle, author } = this.props.data.site.siteMetadata
     const post = this.props.data.markdownRemark
     const tags = post.fields.tagSlugs
+    const { direction } = post.frontmatter
 
     const homeBlock = (
       <div>
@@ -52,6 +53,7 @@ class PostTemplateDetails extends React.Component {
               className="post-single__body"
               /* eslint-disable-next-line react/no-danger */
               dangerouslySetInnerHTML={{ __html: post.html }}
+              dir={direction === 'rtl' ? 'rtl' : undefined}
             />
             <div className="post-single__date">
               <em>
@@ -64,13 +66,6 @@ class PostTemplateDetails extends React.Component {
             <hr />
             <p className="post-single__footer-text">
               {subtitle}
-              <a
-                href={`https://twitter.com/${author.twitter}`}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <br /> <strong>{author.name}</strong> on Twitter
-              </a>
             </p>
             {commentsBlock}
           </div>

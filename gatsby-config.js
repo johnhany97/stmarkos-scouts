@@ -10,23 +10,17 @@ module.exports = {
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Announcements',
         path: '/',
       },
       {
         label: 'About',
         path: '/about/',
       },
-      {
-        label: 'Contact us',
-        path: '/contact/',
-      },
     ],
     author: {
-      name: 'John Ayad',
-      email: 'me@johnayad.com',
-      twitter: 'jhany97',
-      github: 'johnhany97',
+      name: 'St Markos Scouts',
+      email: 'info@stmarkos-scout.org',
     },
   },
   plugins: [
