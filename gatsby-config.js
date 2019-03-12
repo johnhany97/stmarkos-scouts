@@ -3,10 +3,9 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    url: 'https://stmarkos-scout.org',
+    title: 'St Markos Scouts',
+    subtitle: 'Official Website',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -15,22 +14,19 @@ module.exports = {
         path: '/',
       },
       {
-        label: 'About me',
+        label: 'About',
         path: '/about/',
       },
       {
-        label: 'Contact me',
+        label: 'Contact us',
         path: '/contact/',
       },
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#',
+      name: 'John Ayad',
+      email: 'me@johnayad.com',
+      twitter: 'jhany97',
+      github: 'johnhany97',
     },
   },
   plugins: [
