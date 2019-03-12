@@ -14,8 +14,16 @@ module.exports = {
         path: '/',
       },
       {
-        label: 'About',
-        path: '/about/',
+        label: 'Scouts & St Markos Church',
+        path: '/about-stmark/',
+      },
+      {
+        label: 'Scouts & Egypt',
+        path: '/about-egypt/',
+      },
+      {
+        label: 'Scouts & the World',
+        path: '/about-world/',
       },
     ],
     author: {
