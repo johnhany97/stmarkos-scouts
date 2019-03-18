@@ -1,6 +1,6 @@
 ---
 title: "Announcement - March 12"
-date: "2019-12-03T22:14:00.121Z"
+date: "2019-03-12T22:14:00.121Z"
 layout: post
 draft: false
 path: "/posts/191203-announcement/"
