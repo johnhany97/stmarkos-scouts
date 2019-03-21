@@ -9,7 +9,7 @@ category: Announcements
 tags:
   - Announcements
 ---
-![](../../../static/media/whatsapp-image-2019-03-21-at-7.16.13-am.jpeg)
+![](../../../../static/media/whatsapp-image-2019-03-21-at-7.16.13-am.jpeg)
 
 <div dir="rtl">
 تهنئة من مجموعة مارمرقس الكشفية الجوية لكل ام كل سنة وانتم طيبين وبخير🌹🌹🌹
