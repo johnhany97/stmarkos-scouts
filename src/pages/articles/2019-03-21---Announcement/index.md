@@ -1,10 +1,10 @@
 ---
-template: post
+layout: post
 title: Announcement - March 21
-slug: announcement-031219
+path: "/posts/191203-announcement/"
 draft: false
 date: 2019-03-21T09:37:19.068Z
-description: '  '
+description: ""
 category: Announcements
 tags:
   - Announcements
