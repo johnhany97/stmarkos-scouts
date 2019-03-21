@@ -5,12 +5,13 @@ layout: post
 draft: false
 path: "/posts/192103-announcement/"
 category: "Announcements"
-tags:
+tags:g
   - "Announcements"
 description: ""
 ---
 <div dir="rtl">
 تهنئة من مجموعة مارمرقس الكشفية الجوية لكل ام كل سنة وانتم طيبين وبخير🌹🌹🌹
 </div>
+
 ![](photo.jpeg)
 
