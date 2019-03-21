@@ -5,7 +5,7 @@ layout: post
 draft: false
 path: "/posts/192103-announcement/"
 category: "Announcements"
-tags:g
+tags:
   - "Announcements"
 description: ""
 ---
