@@ -1,16 +1,16 @@
 ---
-layout: post
-title: Announcement - March 21
-path: "/posts/191203-announcement/"
-draft: false
+title: "Announcement - March 21"
 date: 2019-03-21T09:37:19.068Z
-description: ""
-category: Announcements
+layout: post
+draft: false
+path: "/posts/192103-announcement/"
+category: "Announcements"
 tags:
-  - Announcements
+  - "Announcements"
+description: ""
 ---
-![](../../../../static/media/whatsapp-image-2019-03-21-at-7.16.13-am.jpeg)
-
 <div dir="rtl">
 تهنئة من مجموعة مارمرقس الكشفية الجوية لكل ام كل سنة وانتم طيبين وبخير🌹🌹🌹
 </div>
+![](photo.jpeg)
+
