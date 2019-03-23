@@ -21,4 +21,4 @@ description: ""
 </div>
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=v2nnD1QLVWE" target="_blank"><img src="http://img.youtube.com/vi/v2nnD1QLVWE/0.jpg" alt="Magazine Announcement Video"/></a>
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=v2nnD1QLVWE" target="_blank"><img src="https://img.youtube.com/vi/v2nnD1QLVWE/0.jpg" alt="Magazine Announcement Video"/></a>
