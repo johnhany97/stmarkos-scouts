@@ -19,6 +19,15 @@ class Menu extends React.Component {
             </Link>
           </li>
         ))}
+        <li className="menu__list-item" key="https://forms.gle/bCoo5huax171naKi6">
+          <a
+            href="https://forms.gle/bCoo5huax171naKi6"
+            className="menu__list-item-link"
+            activeClassName="menu__list-item-link menu__list-item-link--active"
+          >
+            Submit Magazine Article
+          </a>
+        </li>
       </ul>
     )
 
