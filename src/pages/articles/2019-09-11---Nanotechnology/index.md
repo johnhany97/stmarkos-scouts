@@ -10,6 +10,8 @@ tags:
 description: ""
 ---
 
+![](scouts.png)
+
 <div dir="rtl">
 
 
