@@ -1,12 +1,12 @@
 ---
-title: "Magazine - Nanotechnology"
+title: "Nanotechnology"
 date: 2019-09-11T22:15:00.068Z
 layout: post
 draft: false
-path: "/posts/191109-magazine-nanotechnology/"
-category: "Announcements"
+path: "/posts/article-nanotechnology/"
+category: "Magazine"
 tags:
-  - "Announcements"
+  - "Magazine"
 description: ""
 ---
 

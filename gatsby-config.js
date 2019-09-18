@@ -14,6 +14,10 @@ module.exports = {
         path: '/',
       },
       {
+        label: 'Magazine Articles',
+        path: '/categories/magazine/',
+      },
+      {
         label: 'Scouts & St Markos Church',
         path: '/about-stmark/',
       },

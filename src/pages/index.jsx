@@ -11,7 +11,9 @@ class IndexRoute extends React.Component {
     const { title, subtitle } = this.props.data.site.siteMetadata
     const posts = this.props.data.allMarkdownRemark.edges
     posts.forEach(post => {
-      items.push(<Post data={post} key={post.node.fields.slug} />)
+      if (post.node.frontmatter.category !== 'Magazine') {
+        items.push(<Post data={post} key={post.node.fields.slug} />)
+      }
     })
 
     return (
