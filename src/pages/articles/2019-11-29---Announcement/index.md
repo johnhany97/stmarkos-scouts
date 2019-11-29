@@ -3,7 +3,7 @@ title: "Announcement"
 date: 2019-11-29T11:01:00.068Z
 layout: post
 draft: false
-path: "/posts/192911-new-comers-exam/"
+path: "/posts/192911-announcement/"
 category: "Announcements"
 tags:
   - "Announcements"
