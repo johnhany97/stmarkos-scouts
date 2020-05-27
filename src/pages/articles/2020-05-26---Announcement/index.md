@@ -1,6 +1,6 @@
 ---
 title: 'Announcement'
-date: 2020-05-28T18:50:00.068Z
+date: 2020-05-26T18:50:00.068Z
 layout: post
 draft: false
 path: '/posts/202605-announcement/'
