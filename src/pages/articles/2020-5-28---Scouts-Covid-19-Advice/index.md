@@ -314,10 +314,10 @@ dir=LTR style='font-size:14.0pt'><o:p></o:p></span></p>
 embed'><span lang=AR-SA style='font-size:14.0pt;font-family:"Arial",sans-serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:
 Calibri;mso-hansi-theme-font:minor-latin'>ويمكنك الاطلاع عليها من خلال الرابط التالي:
-</span><span dir=LTR style='font-size:14.0pt'>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
+</span><span dir=LTR style='font-size:14.0pt'><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/</a> 
 </span><span lang=AR-SA style='font-size:14.0pt;font-family:"Arial",sans-serif;
 mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:
-Calibri;mso-hansi-theme-font:minor-latin'>باللغة الانجليزية</span><span
+Calibri;mso-hansi-theme-font:minor-latin'> باللغة الانجليزية </span><span
 dir=LTR style='font-size:14.0pt'><o:p></o:p></span></p>
 
 <p class=MsoNormal dir=RTL style='text-align:right;direction:rtl;unicode-bidi:
