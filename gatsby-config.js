@@ -4,6 +4,7 @@ const pxtorem = require('postcss-pxtorem')
 module.exports = {
   siteMetadata: {
     url: 'https://stmarkos-scout.org',
+    siteUrl: `https://stmarkos-scout.org`,
     title: 'St Markos Scouts',
     subtitle: 'Official Website',
     copyright: '© All rights reserved.',
