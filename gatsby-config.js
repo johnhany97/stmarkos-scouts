@@ -155,10 +155,6 @@ module.exports = {
                 }
               }
           }`,
-        resolveSiteUrl: ({site, allSitePage}) => {
-          //Alternatively, you may also pass in an environment variable (or any location) at the beginning of your `gatsby-config.js`.
-          return site.wp.generalSettings.siteUrl
-        },
         output: '/sitemap.xml',
         serialize: ({ site, allSitePage }) =>
           allSitePage.edges.map(edge => {
